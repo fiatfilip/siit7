@@ -1,2 +1,0 @@
-# siit7
-#ScoalaInformalaIT
