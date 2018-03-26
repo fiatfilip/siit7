@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Filip Fiat
-sami
-Andrei CHira
-=======
 Filip Fiat
 sami
 Cordulean Stefan
@@ -10,5 +5,4 @@ Chirila Aronel
 Ciobanu Ionut
 Ciobanu Raluca
 Ioana Stanciu
->>>>>>> 8377c3df933d9f7da509fb418cebbc7186c31939
 Andrei Chira
